@@ -1,0 +1,6 @@
+NumInstances_db          = "2"
+instance_shape_db        = "VM.Standard2.1"
+instance_host_name_db    = "default-ndb"
+instance_display_name_db = "default-ndb"
+instance_volume_size_db  = "100"
+private_ip_db            = "10.0.30."

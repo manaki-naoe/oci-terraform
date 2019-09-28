@@ -1,0 +1,6 @@
+NumInstances_admin          = "1"
+instance_shape_admin        = "VM.Standard.E2.1"
+instance_host_name_admin    = "default-admin"
+instance_display_name_admin = "default-admin"
+instance_volume_size_admin  = "150"
+private_ip_admin            = "10.0.10.11"

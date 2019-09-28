@@ -1,0 +1,6 @@
+NumInstances_web          = "2"
+instance_shape_web        = "VM.Standard2.2"
+instance_host_name_web    = "default-web"
+instance_display_name_web = "default-web"
+instance_volume_size_web  = "100"
+private_ip_web            = "10.0.20."
